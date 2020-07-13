@@ -10,9 +10,7 @@
         "dbaeumer.vscode-eslint"
     ],
 
-    "appPort": 8080,
-
-    "runArgs": ["-p", "hostIP:hostPort:8080"],
+    "forwardPorts": [8080],
 
     "postCreateCommand": "npm install"
 }
