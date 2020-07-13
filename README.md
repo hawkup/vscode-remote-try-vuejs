@@ -28,3 +28,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Referrence
+* https://code.visualstudio.com/docs/remote/containers
+* https://www.freecodecamp.org/news/learn-programming-in-your-browser-the-right-way/
+* https://github.com/microsoft/vscode-dev-containers
